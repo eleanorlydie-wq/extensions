@@ -46,7 +46,7 @@ qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 Commit Strip-eu.kanade.tachiyomi.extension.all.commitstripı
 uhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.commitstrip-v1.4.4.apkƒhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.commitstrip.png"1.4(21.4.4:9Ô’¼ĞÎÒíøICommit Stripen"https://www.commitstrip.com:9ÀŞÜ ê±Ğ:Commit Stripfr"https://www.commitstrip.com*å
 Coomer(eu.kanade.tachiyomi.extension.all.coomeró
-qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.coomer-v1.4.25.apk~https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coomer.png"1.4(21.4.25:,÷Æ½¤¼„ÆúxCoomerall"https://coomer.st0*¬
+qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.coomer-v1.4.26.apk~https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coomer.png"1.4(21.4.26:,÷Æ½¤¼„ÆúxCoomerall"https://coomer.st0*¬
 	Corona EX*eu.kanade.tachiyomi.extension.all.coronaex÷
 rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.coronaex-v1.4.1.apk€https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coronaex.png"1.4(21.4.1:3¼´¦“ÔŒÅˆB	Corona EXja"https://to-corona-ex.com:6óØåª©¼»w	Corona EXen"https://en.to-corona-ex.com*ƒ
 CosplayTele-eu.kanade.tachiyomi.extension.all.cosplayteleı
