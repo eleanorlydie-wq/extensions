@@ -46,7 +46,7 @@ qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 Commit Strip-eu.kanade.tachiyomi.extension.all.commitstrip˝
 uhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.commitstrip-v1.4.4.apkÉhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.commitstrip.png"1.4(21.4.4:9‘íº–Œ“Ì¯ICommit Stripen"https://www.commitstrip.com:9¿ﬁ‹†Í±–é:Commit Stripfr"https://www.commitstrip.com*Â
 Coomer(eu.kanade.tachiyomi.extension.all.coomerÛ
-qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.coomer-v1.4.24.apk~https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coomer.png"1.4(21.4.24:,˜∆Ω§ºÑ∆˙xCoomerall"https://coomer.st0*¨
+qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.coomer-v1.4.25.apk~https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coomer.png"1.4(21.4.25:,˜∆Ω§ºÑ∆˙xCoomerall"https://coomer.st0*¨
 	Corona EX*eu.kanade.tachiyomi.extension.all.coronaex˜
 rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.coronaex-v1.4.1.apkÄhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coronaex.png"1.4(21.4.1:3º¥¶ì‘å≈àB	Corona EXja"https://to-corona-ex.com:6ÛêÿÂ™©ºªw	Corona EXen"https://en.to-corona-ex.com*É
 CosplayTele-eu.kanade.tachiyomi.extension.all.cosplaytele˝
@@ -2389,7 +2389,7 @@ ohttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 Toonkor(eu.kanade.tachiyomi.extension.ko.toonkorÚ
 phttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ko.toonkor-v1.4.6.apk~https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.toonkor.png"1.4(21.4.6:.§ëïÆú‹›≈[Toonkorko"https://tkor114.com0*Å
 Wolf.com+eu.kanade.tachiyomi.extension.ko.wolfdotcom˘
-shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apkÅhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"1.4(21.4.3:<ì±˘íü·¡æMÎäëÎåÄÎã∑Ïª¥ - ÏõπÌà∞ko"https://wfwf471.com0:?Ê—–¨õêáñbÎäëÎåÄÎã∑Ïª¥ - ÎßåÌôîÏ±Öko"https://wfwf471.com0:?ı©ß¢ÓœÄ“:ÎäëÎåÄÎã∑Ïª¥ - Ìè¨ÌÜ†Ìà∞ko"https://wfwf471.com0*Ú
+shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ko.wolfdotcom-v1.4.3.apkÅhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"1.4(21.4.3:<ì±˘íü·¡æMÎäëÎåÄÎã∑Ïª¥ - ÏõπÌà∞ko"https://wfwf474.com0:?Ê—–¨õêáñbÎäëÎåÄÎã∑Ïª¥ - ÎßåÌôîÏ±Öko"https://wfwf474.com0:?ı©ß¢ÓœÄ“:ÎäëÎåÄÎã∑Ïª¥ - Ìè¨ÌÜ†Ìà∞ko"https://wfwf474.com0*Ú
 	MangaHoNa*eu.kanade.tachiyomi.extension.pl.mangahona¯
 shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pl.mangahona-v1.4.51.apkÄhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pl.mangahona.png"1.4(321.4.51:/ƒÉ’´£¢ÃÈ{	MangaHoNapl"https://mangahona.pl*Â
 Amuy%eu.kanade.tachiyomi.extension.pt.amuyÌ
