@@ -736,18 +736,18 @@
       "name": "Coomer",
       "packageName": "eu.kanade.tachiyomi.extension.all.coomer",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.coomer-v1.4.27.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.coomer-v1.4.28.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coomer.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 27,
-      "versionName": "1.4.27",
+      "versionCode": 28,
+      "versionName": "1.4.28",
       "sources": [
         {
           "id": "8715899195746116471",
           "name": "Coomer",
           "language": "all",
-          "homeUrl": "https://coomer.st",
+          "homeUrl": "https://coomer.cr",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
