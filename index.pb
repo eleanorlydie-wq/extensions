@@ -332,7 +332,7 @@ rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 uhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.projectsuki-v1.4.8.apkƒhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.projectsuki.png"1.4(21.4.8:7âÁòêîÕ¶|Project Sukiall"https://projectsuki.com/*þ
 
 RokuHentai,eu.kanade.tachiyomi.extension.all.rokuhentaiû
-thttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.rokuhentai-v1.4.1.apk‚https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.rokuhentai.png"1.4(21.4.1:6¬ÎÂó½ÏÛ€^Roku Hentaiall"https://rokuhentai.com0*
+thttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.rokuhentai-v1.4.2.apk‚https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.rokuhentai.png"1.4(21.4.2:6¬ÎÂó½ÏÛ€^Roku Hentaiall"https://rokuhentai.com0*
 BlossomManhwa.eu.kanade.tachiyomi.extension.all.sakuramanhwaÿ
 vhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.sakuramanhwa-v1.4.5.apk„https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.sakuramanhwa.png"1.4(21.4.5:>Ýê®Ú„‰ªÝBlossomManhwaall"https://api.cherrymanhwa.com0*Ì
 Sandra and Woo.eu.kanade.tachiyomi.extension.all.sandraandwooÿ
