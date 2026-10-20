@@ -2510,6 +2510,26 @@
       ]
     },
     {
+      "name": "Hentai Torrent (Images)",
+      "packageName": "eu.kanade.tachiyomi.extension.all.hentaitorrentimages",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.hentaitorrentimages-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.hentaitorrentimages.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "991220915281339976",
+          "name": "Hentai Torrent (Images)",
+          "language": "all",
+          "homeUrl": "https://www.hentaitorrents.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "HentaiZap",
       "packageName": "eu.kanade.tachiyomi.extension.all.hentaizap",
       "resources": {
