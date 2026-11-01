@@ -1780,9 +1780,7 @@ Komiku.comid"https://01.komiku.asia*ð
 	Komikzoid*eu.kanade.tachiyomi.extension.id.komikzoid÷
 rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.komikzoid-v1.4.3.apk€https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.komikzoid.png"1.4(21.4.3:/Ò³„¿öòá¼#	Komikzoidid"https://komikzoid.id*é
 KumaPoi(eu.kanade.tachiyomi.extension.id.kumapoió
-qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.kumapoi-v1.4.36.apk~https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kumapoi.png"1.4($21.4.36:/ª±øÎß€Â¸FKumaPoiid"https://kumapoi.info0*è
-KumoPoi(eu.kanade.tachiyomi.extension.id.kumopoió
-qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.kumopoi-v1.4.32.apk~https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kumopoi.png"1.4( 21.4.32:.Åå“Ô‚—ÃíMKumoPoiid"https://kumopoi.org0*ô
+qhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.kumapoi-v1.4.36.apk~https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kumapoi.png"1.4($21.4.36:/ª±øÎß€Â¸FKumaPoiid"https://kumapoi.info0*ô
 
 Kuro Manga*eu.kanade.tachiyomi.extension.id.kuromangaø
 shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.kuromanga-v1.4.32.apk€https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kuromanga.png"1.4( 21.4.32:0ùô²ÿÛî÷š1

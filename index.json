@@ -18790,26 +18790,6 @@
       ]
     },
     {
-      "name": "KumoPoi",
-      "packageName": "eu.kanade.tachiyomi.extension.id.kumopoi",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.kumopoi-v1.4.32.apk",
-        "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kumopoi.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 32,
-      "versionName": "1.4.32",
-      "sources": [
-        {
-          "id": "5610091745946956485",
-          "name": "KumoPoi",
-          "language": "id",
-          "homeUrl": "https://kumopoi.org",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "Kuro Manga",
       "packageName": "eu.kanade.tachiyomi.extension.id.kuromanga",
       "resources": {
