@@ -8197,12 +8197,12 @@
       "name": "Atsumaru",
       "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.atsumaru-v1.4.20.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.atsumaru-v1.4.21.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.atsumaru.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 20,
-      "versionName": "1.4.20",
+      "versionCode": 21,
+      "versionName": "1.4.21",
       "sources": [
         {
           "id": "2327480808438768017",
@@ -17988,12 +17988,12 @@
       "name": "Sushi-Scan",
       "packageName": "eu.kanade.tachiyomi.extension.fr.sushiscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-fr.sushiscan-v1.4.49.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-fr.sushiscan-v1.4.50.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.sushiscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 49,
-      "versionName": "1.4.49",
+      "versionCode": 50,
+      "versionName": "1.4.50",
       "sources": [
         {
           "id": "6516188872647980679",

@@ -550,7 +550,7 @@ thttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 Athrea Scans,eu.kanade.tachiyomi.extension.en.athreascansü
 uhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.athreascans-v1.4.33.apk‚https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.athreascans.png"1.4(!21.4.33:7Ğã »ç÷Athrea Scansen"https://athreascans.com0*ê
 Atsumaru)eu.kanade.tachiyomi.extension.en.atsumaruõ
-rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.atsumaru-v1.4.20.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.atsumaru.png"1.4(21.4.20:,‘Ã Äëî·¦ Atsumaruen"https://atsu.moe0*ã
+rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.atsumaru-v1.4.21.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.atsumaru.png"1.4(21.4.21:,‘Ã Äëî·¦ Atsumaruen"https://atsu.moe0*ã
 aurora'eu.kanade.tachiyomi.extension.en.aurorağ
 ohttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.aurora-v1.4.4.apk}https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.aurora.png"1.4(21.4.4:/²ÚÜ¤Óš„û~Auroraen"https://comicaurora.com*Û
 Omoi&eu.kanade.tachiyomi.extension.en.azukiî
@@ -1691,7 +1691,7 @@ phttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 yhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-fr.softepsilonscan-v1.4.54.apk†https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.softepsilonscan.png"1.4(621.4.54:9„±Ïì©¯üDSoft Epsilon Scanfr"https://epsilonsoft.to*÷
 
 Sushi-Scan*eu.kanade.tachiyomi.extension.fr.sushiscanø
-shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-fr.sushiscan-v1.4.49.apk€https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.sushiscan.png"1.4(121.4.49:3‡í¤œ–è‰·Z
+shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-fr.sushiscan-v1.4.50.apk€https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.sushiscan.png"1.4(221.4.50:3‡í¤œ–è‰·Z
 Sushi-Scanfr"https://sushiscan.net0*€
 Sushiscan.fr,eu.kanade.tachiyomi.extension.fr.sushiscanfrü
 uhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-fr.sushiscanfr-v1.4.35.apk‚https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.sushiscanfr.png"1.4(#21.4.35:4»ùığŞ¦ç®,Sushiscan.frfr"https://sushiscan.fr0*ä
