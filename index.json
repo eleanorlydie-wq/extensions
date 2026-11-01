@@ -2221,12 +2221,12 @@
       "name": "HentaiHand",
       "packageName": "eu.kanade.tachiyomi.extension.all.hentaihand",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.hentaihand-v1.4.12.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.hentaihand-v1.4.13.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.hentaihand.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 12,
-      "versionName": "1.4.12",
+      "versionCode": 13,
+      "versionName": "1.4.13",
       "sources": [
         {
           "id": "1235047015955289468",
@@ -2472,12 +2472,12 @@
       "name": "HentaiRox",
       "packageName": "eu.kanade.tachiyomi.extension.all.hentairox",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.hentairox-v1.4.9.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.hentairox-v1.4.10.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.hentairox.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "2799291971714927306",
@@ -2490,13 +2490,6 @@
           "id": "2013504679812912827",
           "name": "HentaiRox",
           "language": "ja",
-          "homeUrl": "https://hentairox.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        },
-        {
-          "id": "3457657507803543601",
-          "name": "HentaiRox",
-          "language": "zh",
           "homeUrl": "https://hentairox.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
@@ -2533,12 +2526,12 @@
       "name": "HentaiZap",
       "packageName": "eu.kanade.tachiyomi.extension.all.hentaizap",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.hentaizap-v1.4.9.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.hentaizap-v1.4.10.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.hentaizap.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "3055889891446984546",
@@ -5461,12 +5454,12 @@
       "name": "nHentai.com (unoriginal)",
       "packageName": "eu.kanade.tachiyomi.extension.all.nhentaicom",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.nhentaicom-v1.4.10.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-all.nhentaicom-v1.4.11.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.nhentaicom.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 10,
-      "versionName": "1.4.10",
+      "versionCode": 11,
+      "versionName": "1.4.11",
       "sources": [
         {
           "id": "9165839893600661480",
@@ -7006,12 +6999,12 @@
       "name": "Azora",
       "packageName": "eu.kanade.tachiyomi.extension.ar.azora",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.azora-v1.4.70.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.azora-v1.4.71.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.azora.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 70,
-      "versionName": "1.4.70",
+      "versionCode": 71,
+      "versionName": "1.4.71",
       "sources": [
         {
           "id": "2482399499047903203",
@@ -7025,12 +7018,12 @@
       "name": "Comic Verse",
       "packageName": "eu.kanade.tachiyomi.extension.ar.comicverse",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.comicverse-v1.4.15.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.comicverse-v1.4.16.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.comicverse.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 15,
-      "versionName": "1.4.15",
+      "versionCode": 16,
+      "versionName": "1.4.16",
       "sources": [
         {
           "id": "7487319247633385575",
@@ -7141,12 +7134,12 @@
       "name": "Goon Scans",
       "packageName": "eu.kanade.tachiyomi.extension.ar.goonscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.goonscans-v1.4.32.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.goonscans-v1.4.33.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.goonscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 32,
-      "versionName": "1.4.32",
+      "versionCode": 33,
+      "versionName": "1.4.33",
       "sources": [
         {
           "id": "2899371341317171497",
@@ -7276,12 +7269,12 @@
       "name": "MangaHub",
       "packageName": "eu.kanade.tachiyomi.extension.ar.mangahub",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.mangahub-v1.4.17.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.mangahub-v1.4.94.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.mangahub.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 17,
-      "versionName": "1.4.17",
+      "versionCode": 94,
+      "versionName": "1.4.94",
       "sources": [
         {
           "id": "9160891278578525988",
@@ -7448,12 +7441,12 @@
       "name": "MangaTime",
       "packageName": "eu.kanade.tachiyomi.extension.ar.mangatime",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.mangatime-v1.4.1.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.mangatime-v1.4.2.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.mangatime.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 1,
-      "versionName": "1.4.1",
+      "versionCode": 2,
+      "versionName": "1.4.2",
       "sources": [
         {
           "id": "215553151312092548",
@@ -7507,12 +7500,12 @@
       "name": "Manhatok",
       "packageName": "eu.kanade.tachiyomi.extension.ar.manhatok",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.manhatok-v1.4.14.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.manhatok-v1.4.15.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.manhatok.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 14,
-      "versionName": "1.4.14",
+      "versionCode": 15,
+      "versionName": "1.4.15",
       "sources": [
         {
           "id": "743599002989616408",
@@ -7565,12 +7558,12 @@
       "name": "Rocks Manga",
       "packageName": "eu.kanade.tachiyomi.extension.ar.rocksmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.rocksmanga-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ar.rocksmanga-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.rocksmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "3301038340499911137",
@@ -8301,18 +8294,18 @@
       "name": "Bbato",
       "packageName": "eu.kanade.tachiyomi.extension.en.bbato",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.bbato-v1.4.1.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.bbato-v1.4.2.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.bbato.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 1,
-      "versionName": "1.4.1",
+      "versionCode": 2,
+      "versionName": "1.4.2",
       "sources": [
         {
           "id": "1678128543826757763",
           "name": "Bbato",
           "language": "en",
-          "homeUrl": "https://bbato.com",
+          "homeUrl": "https://bato1.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -9202,18 +9195,18 @@
       "name": "Eva Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.evascans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.evascans-v1.4.34.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.evascans-v1.4.35.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.evascans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 34,
-      "versionName": "1.4.34",
+      "versionCode": 35,
+      "versionName": "1.4.35",
       "sources": [
         {
           "id": "1911019612901009263",
           "name": "Eva Scans",
           "language": "en",
-          "homeUrl": "https://evascans.org"
+          "homeUrl": "https://evascans.net"
         }
       ]
     },
@@ -9907,18 +9900,18 @@
       "name": "Hiperdex",
       "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.hiperdex-v1.4.80.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.hiperdex-v1.4.81.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hiperdex.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 80,
-      "versionName": "1.4.80",
+      "versionCode": 81,
+      "versionName": "1.4.81",
       "sources": [
         {
           "id": "3064755045370217842",
           "name": "Hiperdex",
           "language": "en",
-          "homeUrl": "https://hiperdex.com",
+          "homeUrl": "https://hiperdex.tv",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -10649,18 +10642,18 @@
       "name": "Luna Toons",
       "packageName": "eu.kanade.tachiyomi.extension.en.lunatoons",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.lunatoons-v1.4.20.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.lunatoons-v1.4.21.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.lunatoons.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 20,
-      "versionName": "1.4.20",
+      "versionCode": 21,
+      "versionName": "1.4.21",
       "sources": [
         {
           "id": "1950516905235913490",
           "name": "Luna Toons",
           "language": "en",
-          "homeUrl": "https://lunatoons.org",
+          "homeUrl": "https://lunatoons.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -10709,18 +10702,18 @@
       "name": "Madara Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.madarascans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.madarascans-v1.4.34.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.madarascans-v1.4.35.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.madarascans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 34,
-      "versionName": "1.4.34",
+      "versionCode": 35,
+      "versionName": "1.4.35",
       "sources": [
         {
           "id": "9025563662441338944",
           "name": "Madara Scans",
           "language": "en",
-          "homeUrl": "https://madarascans.com"
+          "homeUrl": "https://madarascans.net"
         }
       ]
     },
@@ -11181,18 +11174,18 @@
       "name": "Mangafreak",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangafreak",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.mangafreak-v1.4.13.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.mangafreak-v1.4.14.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangafreak.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 13,
-      "versionName": "1.4.13",
+      "versionCode": 14,
+      "versionName": "1.4.14",
       "sources": [
         {
           "id": "1201694572804778862",
           "name": "Mangafreak",
           "language": "en",
-          "homeUrl": "https://ww2.mangafreak.me",
+          "homeUrl": "https://ww3.mangafreak.me",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -12773,12 +12766,12 @@
       "name": "Nyx Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.nyxscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.nyxscans-v1.4.27.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.nyxscans-v1.4.28.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.nyxscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 27,
-      "versionName": "1.4.27",
+      "versionCode": 28,
+      "versionName": "1.4.28",
       "sources": [
         {
           "id": "419822582289753882",
@@ -12912,18 +12905,18 @@
       "name": "One Punch Man Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.onepunchmanonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.onepunchmanonline-v1.4.3.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.onepunchmanonline-v1.4.4.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.onepunchmanonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "897097334505121559",
           "name": "One Punch Man Online",
           "language": "en",
-          "homeUrl": "https://w16.1punchman.com"
+          "homeUrl": "https://w21.1punchman.com"
         }
       ]
     },
@@ -13300,18 +13293,18 @@
       "name": "Read Attack on Titan Shingeki no Kyojin Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.13.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.14.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 13,
-      "versionName": "1.4.13",
+      "versionCode": 14,
+      "versionName": "1.4.14",
       "sources": [
         {
           "id": "8930801332831394412",
           "name": "Read Attack on Titan Shingeki no Kyojin Manga",
           "language": "en",
-          "homeUrl": "https://ww11.readsnk.com"
+          "homeUrl": "https://ww12.readsnk.com"
         }
       ]
     },
@@ -13338,18 +13331,18 @@
       "name": "Read Black Clover Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readblackclovermangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.9.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readblackclovermangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 8,
-      "versionName": "1.4.8",
+      "versionCode": 9,
+      "versionName": "1.4.9",
       "sources": [
         {
           "id": "6485938153129890061",
           "name": "Read Black Clover Manga Online",
           "language": "en",
-          "homeUrl": "https://ww10.readblackclover.com"
+          "homeUrl": "https://readblackclover.com"
         }
       ]
     },
@@ -13376,18 +13369,18 @@
       "name": "Read Chainsaw Man Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.10.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "6207801235158968822",
           "name": "Read Chainsaw Man Manga Online",
           "language": "en",
-          "homeUrl": "https://ww5.readchainsawman.com",
+          "homeUrl": "https://ww6.readchainsawman.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -13434,18 +13427,18 @@
       "name": "Read Fairy Tail & Edens Zero Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readfairytailedenszeromangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.9.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readfairytailedenszeromangaonline-v1.4.10.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readfairytailedenszeromangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "1330793582354406642",
           "name": "Read Fairy Tail & Edens Zero Manga Online",
           "language": "en",
-          "homeUrl": "https://ww8.readfairytail.com"
+          "homeUrl": "https://ww9.readfairytail.com"
         }
       ]
     },
@@ -13453,18 +13446,18 @@
       "name": "Read Jujutsu Kaisen Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.10.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "808850989053853006",
           "name": "Read Jujutsu Kaisen Manga Online",
           "language": "en",
-          "homeUrl": "https://ww5.readjujutsukaisen.com"
+          "homeUrl": "https://ww6.readjujutsukaisen.com"
         }
       ]
     },
@@ -13472,18 +13465,18 @@
       "name": "Read Kingdom Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readkingdommangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readkingdommangaonline-v1.4.8.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readkingdommangaonline-v1.4.9.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readkingdommangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 8,
-      "versionName": "1.4.8",
+      "versionCode": 9,
+      "versionName": "1.4.9",
       "sources": [
         {
           "id": "7952360835727640966",
           "name": "Read Kingdom Manga Online",
           "language": "en",
-          "homeUrl": "https://ww5.readkingdom.com"
+          "homeUrl": "https://ww6.readkingdom.com"
         }
       ]
     },
@@ -13491,18 +13484,18 @@
       "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.11.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 10,
-      "versionName": "1.4.10",
+      "versionCode": 11,
+      "versionName": "1.4.11",
       "sources": [
         {
           "id": "3945031984510180731",
           "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
           "language": "en",
-          "homeUrl": "https://ww7.read7deadlysins.com"
+          "homeUrl": "https://ww8.read7deadlysins.com"
         }
       ]
     },
@@ -13529,18 +13522,18 @@
       "name": "Read One Piece Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readonepiecemangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readonepiecemangaonline-v1.4.8.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readonepiecemangaonline-v1.4.9.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readonepiecemangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 8,
-      "versionName": "1.4.8",
+      "versionCode": 9,
+      "versionName": "1.4.9",
       "sources": [
         {
           "id": "1061544757733451419",
           "name": "Read One Piece Manga Online",
           "language": "en",
-          "homeUrl": "https://ww12.readonepiece.com"
+          "homeUrl": "https://ww13.readonepiece.com"
         }
       ]
     },
@@ -13548,18 +13541,18 @@
       "name": "Read One-Punch Man Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.9.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 8,
-      "versionName": "1.4.8",
+      "versionCode": 9,
+      "versionName": "1.4.9",
       "sources": [
         {
           "id": "8254209929759906152",
           "name": "Read One-Punch Man Manga Online",
           "language": "en",
-          "homeUrl": "https://ww6.readopm.com"
+          "homeUrl": "https://ww7.readopm.com"
         }
       ]
     },
@@ -13567,18 +13560,18 @@
       "name": "Read Solo Leveling Manga Manhwa Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.11.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 10,
-      "versionName": "1.4.10",
+      "versionCode": 11,
+      "versionName": "1.4.11",
       "sources": [
         {
           "id": "1374366734159205648",
           "name": "Read Solo Leveling Manga Manhwa Online",
           "language": "en",
-          "homeUrl": "https://ww3.readsololeveling.org"
+          "homeUrl": "https://ww4.readsololeveling.org"
         }
       ]
     },
@@ -13586,18 +13579,18 @@
       "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.12.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 11,
-      "versionName": "1.4.11",
+      "versionCode": 12,
+      "versionName": "1.4.12",
       "sources": [
         {
           "id": "6468833665354206027",
           "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
           "language": "en",
-          "homeUrl": "https://ww11.tokyoghoulre.com"
+          "homeUrl": "https://ww12.tokyoghoulre.com"
         }
       ]
     },
@@ -15029,12 +15022,12 @@
       "name": "Zazamanga",
       "packageName": "eu.kanade.tachiyomi.extension.en.zazamanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.zazamanga-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-en.zazamanga-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.zazamanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "1264036757248780997",
@@ -15207,12 +15200,12 @@
       "name": "Bloom Scans",
       "packageName": "eu.kanade.tachiyomi.extension.es.bloomscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-es.bloomscans-v1.4.34.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-es.bloomscans-v1.4.35.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bloomscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 34,
-      "versionName": "1.4.34",
+      "versionCode": 35,
+      "versionName": "1.4.35",
       "sources": [
         {
           "id": "2598725055968738551",
@@ -15504,12 +15497,12 @@
       "name": "DragonTranslation.org",
       "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-es.dragontranslationorg-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-es.dragontranslationorg-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.dragontranslationorg.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "4647982373411241498",
@@ -15859,12 +15852,12 @@
       "name": "Inmortal Scan",
       "packageName": "eu.kanade.tachiyomi.extension.es.inmortalscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-es.inmortalscan-v1.4.55.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-es.inmortalscan-v1.4.56.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.inmortalscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
+      "versionCode": 56,
+      "versionName": "1.4.56",
       "sources": [
         {
           "id": "8879875375160764811",
@@ -16739,12 +16732,12 @@
       "name": "SkyMangas",
       "packageName": "eu.kanade.tachiyomi.extension.es.skymangas",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-es.skymangas-v1.4.3.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-es.skymangas-v1.4.4.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.skymangas.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "8713024885922119175",
@@ -19969,12 +19962,12 @@
       "name": "Ciao Plus",
       "packageName": "eu.kanade.tachiyomi.extension.ja.ciaoplus",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ja.ciaoplus-v1.4.1.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ja.ciaoplus-v1.4.2.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.ciaoplus.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 1,
-      "versionName": "1.4.1",
+      "versionCode": 2,
+      "versionName": "1.4.2",
       "sources": [
         {
           "id": "1585589665574145721",
@@ -20711,18 +20704,18 @@
       "name": "Jmanga",
       "packageName": "eu.kanade.tachiyomi.extension.ja.jmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ja.jmanga-v1.4.4.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ja.jmanga-v1.4.5.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.jmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 4,
-      "versionName": "1.4.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
       "sources": [
         {
           "id": "6141590427749684419",
           "name": "Jmanga",
           "language": "ja",
-          "homeUrl": "https://jmanga.beer",
+          "homeUrl": "https://jmanga.golf",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -21293,12 +21286,12 @@
       "name": "Mokuro",
       "packageName": "eu.kanade.tachiyomi.extension.ja.mokuro",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ja.mokuro-v1.4.4.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ja.mokuro-v1.4.5.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.mokuro.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 4,
-      "versionName": "1.4.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
       "sources": [
         {
           "id": "3707487231227345638",
@@ -22096,12 +22089,12 @@
       "name": "RawDEX",
       "packageName": "eu.kanade.tachiyomi.extension.ko.rawdex",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ko.rawdex-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-ko.rawdex-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ko.rawdex.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "7981220701421282731",
@@ -22600,12 +22593,12 @@
       "name": "ExHentai.net.br",
       "packageName": "eu.kanade.tachiyomi.extension.pt.exhentainetbr",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.exhentainetbr-v1.4.4.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.exhentainetbr-v1.4.5.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.exhentainetbr.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 4,
-      "versionName": "1.4.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
       "sources": [
         {
           "id": "1408140394859123923",
@@ -22819,12 +22812,12 @@
       "name": "Hunters Scans",
       "packageName": "eu.kanade.tachiyomi.extension.pt.huntersscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.huntersscans-v1.4.62.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.huntersscans-v1.4.63.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.huntersscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 62,
-      "versionName": "1.4.62",
+      "versionCode": 63,
+      "versionName": "1.4.63",
       "sources": [
         {
           "id": "7310576253330700902",
@@ -25100,12 +25093,12 @@
       "name": "Nekopost",
       "packageName": "eu.kanade.tachiyomi.extension.th.nekopost",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-th.nekopost-v1.4.15.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-th.nekopost-v1.4.16.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.th.nekopost.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 15,
-      "versionName": "1.4.15",
+      "versionCode": 16,
+      "versionName": "1.4.16",
       "sources": [
         {
           "id": "4353470354941192417",
@@ -26817,18 +26810,18 @@
       "name": "DamCoNuong",
       "packageName": "eu.kanade.tachiyomi.extension.vi.damconuong",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.damconuong-v1.4.6.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.damconuong-v1.4.7.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.damconuong.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 6,
-      "versionName": "1.4.6",
+      "versionCode": 7,
+      "versionName": "1.4.7",
       "sources": [
         {
           "id": "2680345917627448572",
           "name": "DamCoNuong",
           "language": "vi",
-          "homeUrl": "https://damconuong.mom",
+          "homeUrl": "https://damconuong.icu",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -27838,18 +27831,18 @@
       "name": "VinaHentai",
       "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.10.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.11.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 10,
-      "versionName": "1.4.10",
+      "versionCode": 11,
+      "versionName": "1.4.11",
       "sources": [
         {
           "id": "4572372176917567711",
           "name": "VinaHentai",
           "language": "vi",
-          "homeUrl": "https://vinahentai.club",
+          "homeUrl": "https://vinahentai.beer",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -28290,12 +28283,12 @@
       "name": "Jinman Tiantang",
       "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-zh.jinmantiantang-v1.4.57.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-zh.jinmantiantang-v1.4.58.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.jinmantiantang.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 57,
-      "versionName": "1.4.57",
+      "versionCode": 58,
+      "versionName": "1.4.58",
       "sources": [
         {
           "id": "6286738698187452081",
@@ -28525,12 +28518,12 @@
       "name": "MH1234",
       "packageName": "eu.kanade.tachiyomi.extension.zh.mh1234",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-zh.mh1234-v1.4.3.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-zh.mh1234-v1.4.4.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.mh1234.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "7895725080195720063",
@@ -28702,12 +28695,12 @@
       "name": "Terra Historicus",
       "packageName": "eu.kanade.tachiyomi.extension.zh.terrahistoricus",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-zh.terrahistoricus-v1.4.4.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-zh.terrahistoricus-v1.4.5.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.terrahistoricus.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 4,
-      "versionName": "1.4.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
       "sources": [
         {
           "id": "4585134706567717130",
