@@ -2802,9 +2802,7 @@ rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 NetTruyenCO (unoriginal),eu.kanade.tachiyomi.extension.vi.nettruyencoü
 uhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyenco-v1.4.16.apk‚https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyenco.png"1.4(21.4.16:AâÏã†Ïıõº1NetTruyenCO (unoriginal)vi"https://nettruyenar.com*•
 NetTruyenS (unoriginal)+eu.kanade.tachiyomi.extension.vi.nettruyensù
-shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyens-v1.4.2.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyens.png"1.4(21.4.2:CÖğ§à£‚ºTNetTruyenS (unoriginal)vi"https://nettruyen10s.com0*•
-NetTruyenS (unoriginal)+eu.kanade.tachiyomi.extension.vi.nettruyensù
-shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyens-v1.4.3.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyens.png"1.4(21.4.3:CÖğ§à£‚ºTNetTruyenS (unoriginal)vi"https://nettruyen15s.com0*¥
+shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyens-v1.4.4.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyens.png"1.4(21.4.4:CÖğ§à£‚ºTNetTruyenS (unoriginal)vi"https://nettruyen15s.com0*¥
 NetTruyenViet (unoriginal).eu.kanade.tachiyomi.extension.vi.nettruyenvietÿ
 vhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyenviet-v1.4.2.apk„https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyenviet.png"1.4(21.4.2:G»¯Ñ›ì‡€–7NetTruyenViet (unoriginal)vi"https://nettruyenviet10.com*‘
 NetTruyenX (unoriginal)+eu.kanade.tachiyomi.extension.vi.nettruyenxù
