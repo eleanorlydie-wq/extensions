@@ -1702,7 +1702,7 @@ nhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 YaoiScan)eu.kanade.tachiyomi.extension.fr.yaoiscanõ
 rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-fr.yaoiscan-v1.4.33.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.yaoiscan.png"1.4(!21.4.33:/×µòê¾ãeYaoiScanfr"https://yaoiscan.fr0*ä
 Luvyaa'eu.kanade.tachiyomi.extension.id.Luvyaañ
-phttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.Luvyaa-v1.4.36.apk}https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.Luvyaa.png"1.4($21.4.36:.¸±„ ¯Û¡Luvyaaid"https://v4.luvyaa.co0*è
+phttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.Luvyaa-v1.4.37.apk}https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.Luvyaa.png"1.4(%21.4.37:.¸±„ ¯Û¡Luvyaaid"https://v5.luvyaa.co0*è
 Aarlas'eu.kanade.tachiyomi.extension.id.aarlasñ
 phttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.aarlas-v1.4.16.apk}https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.aarlas.png"1.4(21.4.16:2Ş¾òÖÃ–“ZAarlasid"https://www.arlas.online0*†
 Ainz Scans ID,eu.kanade.tachiyomi.extension.id.ainzscansidü
@@ -1798,7 +1798,7 @@ LumosKomikid"https://02.lumosgg.com*ü
 Maid - Manga*eu.kanade.tachiyomi.extension.id.maidmangaø
 shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.maidmanga-v1.4.12.apk€https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.maidmanga.png"1.4(21.4.12:6ìŒêĞ´ÑßªOMaid - Mangaid"https://www.maid.my.id0*ô
 	Manga Can)eu.kanade.tachiyomi.extension.id.mangacanõ
-rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.mangacan-v1.4.34.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mangacan.png"1.4("21.4.34:5¬œÍÏ²†Ä‚=	Manga Canid"https://mangacanblog.com0*ü
+rhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.mangacan-v1.4.35.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mangacan.png"1.4(#21.4.35:5¬œÍÏ²†Ä‚=	Manga Canid"https://mangacanblog.com0*ü
 	Mangakuri*eu.kanade.tachiyomi.extension.id.mangakuriø
 shttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.mangakuri-v1.4.33.apk€https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mangakuri.png"1.4(!21.4.33:9Â£ôÜÇ¸šéw	Mangakuriid"https://lc2.mangakuri.online0*ò
 Mangalay)eu.kanade.tachiyomi.extension.id.mangalayô
@@ -1810,7 +1810,7 @@ ManhwaDesu+eu.kanade.tachiyomi.extension.id.manhwadesuú
 thttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.manhwadesu-v1.4.44.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.manhwadesu.png"1.4(,21.4.44:5¡®®äüÅíÍr
 ManhwaDesuid"https://manhwadesu.wiki0*€
 Manhwa Indo+eu.kanade.tachiyomi.extension.id.manhwaindoú
-thttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.manhwaindo-v1.4.43.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.manhwaindo.png"1.4(+21.4.43:8Ãäú¶‚¡òüManhwa Indoid"https://www.manhwaindo.my0*‘
+thttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.manhwaindo-v1.4.44.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.manhwaindo.png"1.4(,21.4.44:8Ãäú¶‚¡òüManhwa Indoid"https://www.manhwaindo.my0*‘
 ManhwaLand.mom.eu.kanade.tachiyomi.extension.id.manhwalandmom€
 whttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.manhwalandmom-v1.4.12.apk„https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.manhwalandmom.png"1.4(21.4.12:=çû“ÚÕµ;ManhwaLand.momid"https://05c.manhwaland.land0*‹
 Manhwalist.org.eu.kanade.tachiyomi.extension.id.manhwalistorg€
@@ -2358,7 +2358,7 @@ vhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/ap
 Pluma Comics,eu.kanade.tachiyomi.extension.pt.plumacomicsü
 uhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.plumacomics-v1.4.49.apk‚https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.plumacomics.png"1.4(121.4.49::À¢ó¿şıÖıfPluma Comicspt-BR"https://plumacomics.cloud*•
 Point Zero Toons/eu.kanade.tachiyomi.extension.pt.pointzerotoons‚
-xhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.34.apk…https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.pointzerotoons.png"1.4("21.4.34:<éş‰ûÚäÕPoint Zero Toonspt-BR"https://kitsuneyako.com*€
+xhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.35.apk…https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.pointzerotoons.png"1.4(#21.4.35:<éş‰ûÚäÕPoint Zero Toonspt-BR"https://kitsuneyako.com*€
 Portal Yaoi+eu.kanade.tachiyomi.extension.pt.portalyaoiú
 thttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.portalyaoi-v1.4.55.apkhttps://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.portalyaoi.png"1.4(721.4.55:8öÍèÈŒíŸ»-Portal Yaoipt-BR"https://portalyaoi.com0*ù
 	Lura Toon+eu.kanade.tachiyomi.extension.pt.randomscanú

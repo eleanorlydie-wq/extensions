@@ -18087,18 +18087,18 @@
       "name": "Luvyaa",
       "packageName": "eu.kanade.tachiyomi.extension.id.Luvyaa",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.Luvyaa-v1.4.36.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.Luvyaa-v1.4.37.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.Luvyaa.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 36,
-      "versionName": "1.4.36",
+      "versionCode": 37,
+      "versionName": "1.4.37",
       "sources": [
         {
           "id": "1316015886884953118",
           "name": "Luvyaa",
           "language": "id",
-          "homeUrl": "https://v4.luvyaa.co",
+          "homeUrl": "https://v5.luvyaa.co",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -18910,12 +18910,12 @@
       "name": "Manga Can",
       "packageName": "eu.kanade.tachiyomi.extension.id.mangacan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.mangacan-v1.4.34.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.mangacan-v1.4.35.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.mangacan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 34,
-      "versionName": "1.4.34",
+      "versionCode": 35,
+      "versionName": "1.4.35",
       "sources": [
         {
           "id": "4396938423130345004",
@@ -19009,12 +19009,12 @@
       "name": "Manhwa Indo",
       "packageName": "eu.kanade.tachiyomi.extension.id.manhwaindo",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.manhwaindo-v1.4.43.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-id.manhwaindo-v1.4.44.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.manhwaindo.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 43,
-      "versionName": "1.4.43",
+      "versionCode": 44,
+      "versionName": "1.4.44",
       "sources": [
         {
           "id": "862941840467210819",
@@ -23654,12 +23654,12 @@
       "name": "Point Zero Toons",
       "packageName": "eu.kanade.tachiyomi.extension.pt.pointzerotoons",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.34.apk",
+        "apkUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/apk/tachiyomi-pt.pointzerotoons-v1.4.35.apk",
         "iconUrl": "https://raw.githubusercontent.com/eleanorlydie-wq/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.pointzerotoons.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 34,
-      "versionName": "1.4.34",
+      "versionCode": 35,
+      "versionName": "1.4.35",
       "sources": [
         {
           "id": "2210021497257492329",
